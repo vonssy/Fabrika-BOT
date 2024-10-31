@@ -8,6 +8,7 @@ Register Here : [Fabrika](https://t.me/fabrika/app?startapp=ref_2874704)
   - Auto Get Account Information
   - Auto Claim Daily Login
   - Auto Tap Tap
+  - Auto Use Recovery
   - Auto Complete Task
   - Multi Account
 
